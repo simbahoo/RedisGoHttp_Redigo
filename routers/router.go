@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"redisgohttp-beego/controllers"
+	"redisgohttp-redigo/controllers"
 
 	"github.com/astaxie/beego"
 )
