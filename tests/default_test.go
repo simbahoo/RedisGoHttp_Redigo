@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"path/filepath"
-	_ "redisgohttp-beego/routers"
+	_ "redisgohttp-redigo/routers"
 	"runtime"
 	"testing"
 

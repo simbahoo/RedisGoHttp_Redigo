@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "redisgohttp-beego/docs"
-	_ "redisgohttp-beego/routers"
+	_ "redisgohttp-redigo/docs"
+	_ "redisgohttp-redigo/routers"
 
 	"github.com/astaxie/beego"
 )

@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"redisgohttp-beego/models"
+	"redisgohttp-redigo/models"
 	"strconv"
 
 	"github.com/astaxie/beego"
